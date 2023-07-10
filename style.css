@@ -279,7 +279,7 @@ h6 {
 
 @media (max-width: 768px) {
     #hero h1 {
-        font-size: 28px;
+        font-size: 38px;
         line-height: 36px;
     }
 
@@ -287,6 +287,10 @@ h6 {
         font-size: 18px;
         line-height: 24px;
         margin-bottom: 30px;
+    }
+    #hero #hii {
+        font-size: 15px;
+        margin-bottom: 5px;
     }
 }
 
