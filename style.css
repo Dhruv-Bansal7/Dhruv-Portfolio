@@ -22,6 +22,9 @@ h5,
 h6 {
     font-family: "Raleway", sans-serif;
 }
+hr {
+    margin: 0;
+}
 
 
 /* ------- back to top button ------------  */
@@ -323,6 +326,7 @@ section {
 
 .section-bg {
     background: #f5f8fd;
+    /* background: #000512; */
 }
 
 .section-title {
