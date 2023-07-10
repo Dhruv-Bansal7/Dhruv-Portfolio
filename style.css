@@ -260,6 +260,9 @@ h6 {
     font-size: 26px;
     font-family: "Poppins", sans-serif;
 }
+#hero #hii {
+    margin-bottom: 5px;
+}
 
 #hero p span {
     color: #fff;
