@@ -517,7 +517,7 @@ section {
 }
 
 .projects #projects-filters li:hover ,
-.projects #projects-filters li:filter-active {
+.projects #projects-filters li.filter-active {
     color: #149ddd;
 }
 

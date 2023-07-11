@@ -162,7 +162,7 @@
           itemSelector: '.projects-item'
         });
   
-        let projectsFilters = select('#projects-flters li', true);
+        let projectsFilters = select('#projects-filters li', true);
   
         on('click', '#projects-filters li', function(e) {
           e.preventDefault();
@@ -208,7 +208,7 @@
 
 
 
-    // projects slider 
+    // certificates slider 
     new Swiper('.certificates-slider', {
         speed: 600,
         loop: true,
