@@ -933,6 +933,7 @@ section {
   
   #footer {
     padding: 15px;
+    padding-top: 5px;
     color: #f4f6fd;
     font-size: 14px;
     position: fixed;
@@ -941,6 +942,7 @@ section {
     width: 300px;
     z-index: 9999;
     background: #040b14;
+    height: 70px;
   }
   
   #footer .copyright {
